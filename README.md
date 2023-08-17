@@ -11,6 +11,8 @@
     
 <div style="display: inline_block"><br>
   <img align="left" alt="kazui72-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="kazui72-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="left" alt="kazui72-arduino" height="30" width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="right" alt="geto" src="https://tenor.com/view/geto-suguru-jujutsu-kaisen-shrug-gif-20241477.gif">
 </div>
     
