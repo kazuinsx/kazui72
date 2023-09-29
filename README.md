@@ -14,6 +14,7 @@
   <img align="left" alt="kazui72-Colab" height="30" width="30" src="https://github.com/kazui72/kazui72/assets/129226911/d1010f17-908b-4a4c-872e-45a56f937bfa.svg">
   <img align="left" alt="kazui72-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="left" alt="kazui72-Phs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="left" alt="kazui72-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg">
   <img align="right" alt="gif" src="https://media.tenor.com/2xTUGoLlO-cAAAAd/tanjiro-kamado-nezuko-kamado.gif">
 </div>
 
