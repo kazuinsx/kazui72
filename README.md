@@ -1,6 +1,6 @@
 ### Oie, tudo bão 👋
 
-- I’m currently learning Python 🐍, Java
+- I’m currently learning ?
   
 <div>
   <a href="https://github.com/kazui72">
