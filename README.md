@@ -1,7 +1,7 @@
 ### Oie, tudo bão 👋
 
-- I’m currently learning Python 🐍
-- Fun fact: ?
+- I’m currently learning Python 🐍, Java
+  
 <div>
   <a href="https://github.com/kazui72">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=kazui72&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical">
