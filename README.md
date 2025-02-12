@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="left" alt="kazui72-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="kazui72-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="gif" src="https://tenor.com/pt-BR/view/naruto-sasuke-itachi-fisheye-mangekyou-sharingan-gif-20375282">
+  <img align="right" alt="gif" src="https://tenor.com/pt-BR/view/naruto-sasuke-itachi-fisheye-mangekyou-sharingan-gif-20375282.gif">
 </div>
 
 ##
